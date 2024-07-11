@@ -1,17 +1,13 @@
-# create-svelte
+## Clone reposetory
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/main/packages/create-svelte).
+Click on the green button or use `git clone https://github.com/ArjantjuhDev/boiler-plate.git` and put this in your terminal.
+## Install
 
-## Creating a project
-
-If you're seeing this, you've probably already done this step. Congrats!
-
+Always install for the first run.
 ```bash
-# create a new project in the current directory
-npm create svelte@latest
-
-# create a new project in my-app
-npm create svelte@latest my-app
+npm install
+or
+npm i
 ```
 
 ## Developing
@@ -33,6 +29,3 @@ To create a production version of your app:
 npm run build
 ```
 
-You can preview the production build with `npm run preview`.
-
-> To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
